@@ -1,7 +1,7 @@
 ## Data Diri
-Nama : Ariadani Dwi Fathurahman
-NIM : 1202202071
-Kelas : SI4408
+- Nama : Ariadani Dwi Fathurahman
+- NIM : 1202202071
+- Kelas : SI4408
 
 ## Tentang Proyek
 
